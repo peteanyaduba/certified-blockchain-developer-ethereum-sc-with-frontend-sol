@@ -2,7 +2,7 @@ Money Contract Address
 =======================
 {0xAd1E2B69D68BD7d0002c86aa6fC4A59fdE7F3aEf}
 
-- change the above address to the address of the deployed Money smartcontract
+- change the above address to the address of the deployed Money smartcontract in the index.html
 
 
 ABI
@@ -37,6 +37,6 @@ ABI
 ]
 
 
-- change the ABI above to the ABI of the deployed smart contract
+- change the ABI above to the ABI of the deployed smart contract inside the index.html
 
 - run the smart contract in Remix
